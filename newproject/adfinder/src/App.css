@@ -1,0 +1,131 @@
+
+    /* css ....... */
+/* header section start */
+
+.logo {
+  width: 20%;
+  height: 100%;
+  color: whitesmoke ;
+   /* font-size: xx-large; */
+  
+}
+
+.header_section {
+  width: 100%;
+  float: left;
+  /* background-image: url('https://www.istockphoto.com/photo/jobs-text-on-wooden-blocks-over-keyboard-gm1173054931-325670703'); */
+  height: auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  
+
+}
+
+.header_bg {
+   
+  /* background-color: rgba(0, 0, 0, 0.582);  */
+   background-color: #0a0909bb; 
+}
+.bg-light {
+  
+  background-color: transparent !important;
+}
+.navbar {
+  padding: 2rem 2rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  margin: 0px;
+  padding: 0px;
+  padding-right: 10px;
+  padding-left: 35px;
+  font-size: 18px;
+  color: white;
+  text-transform: uppercase;  
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #c2b073;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #eec53d;
+}
+
+.call_section {
+  float: left;
+}
+
+.call_section ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.call_section li {
+  float: left;
+  font-size: 18px;
+  padding: 5px 15px;
+  color: #000000;
+}
+
+.call_section li a {
+  color: #000;
+}
+
+.padding_left_15 {
+  padding-left: 10px;
+}
+
+.donate_bt {
+  width: 50px;
+  float: left;
+  font-size: 18px;
+  padding: 5px 0px;
+  color: #fff;
+  text-align: right;
+}
+
+.donate_bt a {
+  color: #fff;
+}
+
+/* header section end */
+
+
+/* Footer start*/
+.footer-section{
+  display: block;
+  background-color: black ;
+  border-top: 1px solid #444;
+  padding: 30px 0;
+}
+.footer-section .copyright{
+  font-size: 12px;
+  color: #ddd;
+  text-transform: uppercase;
+}
+.footer-social{
+  display: block;
+  text-align: right;
+}
+.footer-social li{
+  display: inline-block;
+}
+.footer-social li a{
+  color: #ddd;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+.footer-social li a:hover{
+  color: #fab702;
+}
+/* Footer End*/
+.fw-bold{
+  font-size: 30px;
+  font-weight: 800; 
+}
