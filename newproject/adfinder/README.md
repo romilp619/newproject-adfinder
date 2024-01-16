@@ -1,3 +1,6 @@
+Adfinder is a advertisement post website where user can post their advertisement for buying or renting houses or offices 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
